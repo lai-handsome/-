@@ -1,0 +1,21 @@
+.content-header {
+    height: 40px;
+    line-height: 40px;
+    background: #fff;
+    border-radius: 4px;
+    padding-left: 18px;
+    font-size: 16px;
+    color: #2780ff;
+
+    span {
+        padding: 0 8px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    .img {
+        float: left;
+        width: 18px;
+        height: 11px;
+    }
+}
